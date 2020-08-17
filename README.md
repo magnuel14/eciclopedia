@@ -1,2 +1,0 @@
-# eciclopedia
-enciclopedia de matemáticas
